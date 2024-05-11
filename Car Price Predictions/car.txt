@@ -1,0 +1,29 @@
+Car = pd.read_csv("toyota.csv")
+
+le = LabelEncoder()
+Car = Car
+Car.model = le.fit_transform(Car.model)
+
+Car = Car
+Car.transmission = le.fit_transform(Car.transmission)
+
+Car = Car
+Car.fuelType = le.fit_transform(Car.fuelType)
+
+Car["mpg"] = Car["mpg"].astype(int)
+Car["engineSize"] = Car["engineSize"].astype(int)
+
+X = Car.drop(["price"], axis = 1)
+
+Y = Car.price
+
+x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size = 0.2)
+
+Final = linear_model.LinearRegression()
+Final.fit(x_train, y_train)
+
+Final.score(x_test,y_test)
+
+pickle.dump(Final, open('model.pkl','wb'))
+
+model = pickle.load(open('mode.pkl', 'rb'))

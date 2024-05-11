@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+
+    <style>
+        body{
+            background: rgb(2,0,36);
+            background: linear-gradient(90deg, rgba(2,0,36,1) 15%, rgba(56,9,121,1) 44%, rgba(0,212,255,1) 100%);
+        }
+        .button{
+            width: 100%;
+            font-weight: bolder;
+        }
+        .button:hover{
+            background-color: rgb(204, 227, 247);
+            color: rgb(19, 114, 247);
+            border: none;
+        }
+        .label{
+            color: white;
+        }
+
+        .head{
+            color: white;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            text-align: center;
+        }
+
+        .Gidence{
+            font-weight: bolder;
+            margin-left: 80px;
+            font-size: 20px;
+            text-align: center;
+            color: white;
+        }
+        .mode_Gidence{
+            color: white;
+            font-size: 16px;
+        }
+    
+        .topic{
+            text-align: center;
+            color: white;
+        }
+
+        .ibox{
+            background-color: transparent;
+            border-width: 2px solid white;
+            color: white;
+        }
+
+        .ibox:focus{
+            background-color: transparent;
+            color: white;
+        }
+
+        .output{
+            font-size: large;
+            text-align: center;
+            color: white;
+        }
+
+        .c_body{
+            background-color: transparent;
+        }
+
+        .card_2{
+            background-color: transparent;
+        }
+
+        .select-box{
+            color: black;
+            background-color: transparent;
+        }
+
+        .cd{
+            margin: 55px;
+            border: 5px;
+            border-width: 5px solid white;
+            background-color: transparent;
+        }
+        .cd::before{
+            background-color: rgba(0, 0, 0, 5);
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar"  style="background-color: #414445">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#" style="color: white",>
+                <b >Welcome</b>
+            </a>
+        </div>
+    </nav>
+    <div class="container mt-5">
+        <div class="card cd">
+            <div class="card-header topic">
+                <h3><b>Toyota Car Price Prediction System</b></h3>
+            </div>
+            <div class="card-body">
+                <form action="{{url_for('predict')}}" method="post">
+                    <div class="row p-2">
+                        <div class="col col-md-4 ">
+                            <label class="label" for="">Model</label>
+                            <input class="form-control ibox" type="text" name="model" id="model" required>
+                        </div>
+                        <div class="col col-md-4">
+                            <label class="label" for="">Transmission</label>
+                            <input class="form-control ibox" type="text" name="transmission" id="transmission" required>
+                        </div>
+                        <div class="col col-md-4">
+                            <label class="label" for="">MPG</label>
+                            <input class="form-control ibox" type="text" name="mpg" id="mpg" required>
+                        </div>
+                    </div>
+                    <div class="row p-2">
+                        <div class="col col-md-4">
+                            <label class="label" class="label" for="">Mileage</label>
+                            <input class="form-control ibox" type="text" name="mileage" id="mileage" required>
+                        </div>
+                        <div class="col col-md-4">
+                            <label class="label" for="">Fuel Type</label>
+                            <input class="form-control ibox" type="text" name="fuelType" id="fuelType"required>
+                        </div>
+                        <div class="col col-md-4">
+                            <label class="label" for="">Tax</label>
+                            <input class="form-control ibox" type="text" name="tax" id="tax" required>
+                        </div>
+                    </div>
+                    <div class="row p-2">
+                        <div class="col col-md-6">
+                            <label class="label" class="label" for="">Year</label>
+                            <input class="form-control ibox" type="text" name="year" id="year" required>
+                        </div>
+                        <div class="col col-md-6">
+                            <label class="label" for="">Engine Size</label>
+                            <input class="form-control ibox" type="text" name="engineSize" id="engineSize" required>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <input class="btn btn-primary button" type="submit" value="Predict" required>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="card card_2 mt-4 ">
+            <div class="car-header head">
+                <h2>Result</h2>
+            </div>
+            <div class="card-body c_body">
+                <div class="row">
+                    <div class="col col-md-4">
+                        <label class="Gidence">User Gidence</label>
+                        <div class="row">
+                            
+                            <div class="col col-md-6">
+                                <label class="mode_Gidence" for="">1. GT86</label>
+                                <br>
+                                <label class="mode_Gidence" for="">2. Corolla</label>
+                                <br>
+                                <label class="mode_Gidence" for="">3. RAV4</label>
+                                <br>
+                                <label class="mode_Gidence" for="">4. Yaris</label>
+                                <br>
+                                <label class="mode_Gidence" for="">5. Auris</label>
+                                <br>
+                                <label class="mode_Gidence" for="">6. Aygo</label>
+                                <br>
+                                <label class="mode_Gidence" for="">7. C-HR</label>
+                                <br>
+                                <label class="mode_Gidence" for="">8. Prius</label>
+                                <br>
+                                <label class="mode_Gidence" for="">9. Avensis</label>
+                            </div>
+                            <div class="col col-md-6">
+                                <label class="mode_Gidence" for="">10. Verso</label>
+                                <br>
+                                <label class="mode_Gidence" for="">11. Hilux</label>
+                                <br>
+                                <label class="mode_Gidence" for="">12. PROACE VERSO</label>
+                                <br>
+                                <label class="mode_Gidence" for="">13. Land Cruiser</label>
+                                <br>
+                                <label class="mode_Gidence" for="">14. Supra</label>
+                                <br>
+                                <label class="mode_Gidence" for="">15. Camry</label>
+                                <br>
+                                <label class="mode_Gidence" for="">16. Verso-S</label>
+                                <br>
+                                <label class="mode_Gidence" for="">17. IQ</label>
+                                <br>
+                                <label class="mode_Gidence" for="">18. Urban Cruiser</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-md-4">
+                        <p class="output">{{prediction_text}}</p>
+                    </div>
+                    <div class="col col-md-4">
+                        <label class="Gidence">User Gidence</label>
+                        <div class="row">
+                            <div class="col col-md-6">
+                                <label class="mode_Gidence" for="">Transmission</label>
+                                <br><br>
+                                <label class="mode_Gidence" for="">1. Manual</label>
+                                <br>
+                                <label class="mode_Gidence" for="">2. Automatic</label>
+                                <br>
+                                <label class="mode_Gidence" for="">3. Semi-Auto</label>
+                                <br>
+                                <label class="mode_Gidence" for="">4. Other</label>
+                            </div>
+                            <div class="col col-md-6">
+                                <label class="mode_Gidence" for="">Fuel Type</label>
+                                <br><br>
+                                <label class="mode_Gidence" for="">1. Petrol</label>
+                                <br>
+                                <label class="mode_Gidence" for="">2. Other</label>
+                                <br>
+                                <label class="mode_Gidence" for="">3 z. Hybrid</label>
+                                <br>
+                                <label class="mode_Gidence" for="">4. Diesel</label>
+                            </div>
+                        </div> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
