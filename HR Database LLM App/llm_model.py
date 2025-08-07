@@ -11,7 +11,7 @@ from langchain_community.agent_toolkits import create_sql_agent
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from few_short_queries import few_shorts
 
-MODEL_API_KEY = "AIzaSyBLKpuoT2OvK8UUS2hVqJ8KXPWDbPHlvPg"
+MODEL_API_KEY = "#####################"
 
 llm = ChatGoogleGenerativeAI(
     model = "gemini-2.0-flash-exp",
@@ -81,3 +81,4 @@ def model_function():
 
 if __name__ == "__main__":
     new_db_chain = model_function()
+
