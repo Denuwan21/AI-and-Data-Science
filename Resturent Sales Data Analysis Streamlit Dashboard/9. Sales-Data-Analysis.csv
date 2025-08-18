@@ -1,0 +1,255 @@
+Order ID,Date,Product,Price,Quantity,Purchase Type,Payment Method,Manager,City,Total Amount
+10452,7/11/2022,Fries,3.49,573.07,Online , Gift Card,Tom      Jackson,London,2000.0143
+10453,7/11/2022,Beverages,2.95,745.76,Online , Gift Card,       Pablo Perez,Madrid,2199.992
+10454,7/11/2022,Sides & Other,4.99,200.4,In-store , Gift Card,Joao    Silva,Lisbon,999.996
+10455,8/11/2022,Burgers,12.99,569.67,In-store , Credit Card,Walter Muller,Berlin,7400.0133
+10456,8/11/2022,Chicken Sandwiches,9.95,201.01,In-store , Credit Card,Walter Muller,Berlin,2000.0495
+10457,8/11/2022,Fries,3.49,573.07,In-store , Credit Card,Remy    Monet,Paris,2000.0143
+10459,8/11/2022,Sides & Other,4.99,200.4,In-store , Credit Card,Walter Muller,Berlin,999.996
+10460,9/11/2022,Burgers,12.99,554.27,In-store , Credit Card,Remy Monet,Paris,7199.9673
+10461,9/11/2022,Chicken Sandwiches,9.95,201.01,In-store , Credit Card,Remy Monet,Paris,2000.0495
+10462,9/11/2022,Fries,3.49,573.07,In-store , Credit Card,       Remy Monet,Paris,2000.0143
+10463,9/11/2022,Beverages,2.95,677.97,In-store , Credit Card,       Remy Monet,Paris,2000.0115
+10464,9/11/2022,Sides & Other,4.99,200.4,In-store , Credit Card,Remy     Monet,Paris,999.996
+10465,10/11/2022,Burgers,12.99,554.27,In-store , Credit Card,Pablo Perez,Madrid,7199.9673
+10466,10/11/2022,Chicken Sandwiches,9.95,201.01,In-store , Credit Card,Pablo Perez,Madrid,2000.0495
+10467,10/11/2022,Fries,3.49,573.07,In-store , Credit Card,Pablo Perez,Madrid,2000.0143
+10468,10/11/2022,Beverages,2.95,677.97,In-store , Credit Card,       Pablo Perez,Madrid,2000.0115
+10470,11/11/2022,Burgers,12.99,554.27,In-store , Credit Card,       Pablo Perez,Madrid,7199.9673
+10471,11/11/2022,Chicken Sandwiches,9.95,201.01,In-store , Credit Card,       Pablo Perez,Madrid,2000.0495
+10472,11/11/2022,Fries,3.49,630.37,In-store , Credit Card,Pablo   Perez,Madrid,2199.9913
+10473,11/11/2022,Beverages,2.95,677.97,In-store , Credit Card,       Pablo Perez,Madrid,2000.0115
+10474,11/11/2022,Sides & Other,4.99,200.4,In-store , Credit Card,       Pablo Perez,Madrid,999.996
+10475,12/11/2022,Burgers,12.99,523.48,In-store , Credit Card,       Pablo Perez,Madrid,6800.0052
+10476,12/11/2022,Chicken Sandwiches,9.95,201.01,In-store , Credit Card,Pablo Perez,Madrid,2000.0495
+10477,12/11/2022,Fries,3.49,630.37,In-store , Credit Card,Pablo  Perez,Madrid,2199.9913
+10478,12/11/2022,Beverages,2.95,677.97,In-store , Credit Card,Pablo Perez,Madrid,2000.0115
+10479,12/11/2022,Sides & Other,4.99,200.4,In-store , Credit Card,Pablo    Perez,Madrid,999.996
+10480,13-11-2022,Burgers,12.99,508.08,In-store , Credit Card,Pablo Perez,Madrid,6599.9592
+10481,13-11-2022,Chicken Sandwiches,9.95,201.01,In-store , Credit Card,Pablo Perez,Madrid,2000.0495
+10482,13-11-2022,Fries,25.5,630.37,In-store , Credit Card,Joao Silva,Lisbon,16074.435
+10486,14-11-2022,Chicken Sandwiches,29.05,201.01,In-store , Credit Card,Joao    Silva,Lisbon,5839.3405
+10487,14-11-2022,Fries,3.49,630.37,In-store , Credit Card,Joao Silva,Lisbon,2199.9913
+10488,14-11-2022,Beverages,2.95,677.97,In-store , Credit Card,Joao Silva,Lisbon,2000.0115
+10489,14-11-2022,Sides & Other,4.99,200.4,In-store , Credit Card,Pablo Perez,Madrid,999.996
+10490,15-11-2022,Burgers,12.99,508.08,In-store , Credit Card,Pablo Perez,Madrid,6599.9592
+10491,15-11-2022,Chicken Sandwiches,9.95,201.01,In-store , Credit Card,Pablo Perez,Madrid,2000.0495
+10492,15-11-2022,Fries,3.49,573.07,In-store , Credit Card,Pablo Perez,Madrid,2000.0143
+10493,15-11-2022,Beverages,2.95,677.97,In-store , Credit Card,Pablo Perez,Madrid,2000.0115
+10494,15-11-2022,Sides & Other,4.99,200.4,In-store , Credit Card,Pablo Perez,Madrid,999.996
+10495,16-11-2022,Burgers,12.99,508.08,In-store , Credit Card,Pablo Perez,Madrid,6599.9592
+10496,16-11-2022,Chicken Sandwiches,9.95,201.01,In-store , Credit Card,Pablo Perez,Madrid,2000.0495
+10497,16-11-2022,Fries,3.49,573.07,In-store , Credit Card,Pablo Perez,Madrid,2000.0143
+10498,16-11-2022,Beverages,2.95,677.97,Drive-thru , Credit Card,Pablo Perez,Madrid,2000.0115
+10499,16-11-2022,Sides & Other,4.99,200.4,Drive-thru , Credit Card,Pablo Perez,Madrid,999.996
+10500,17-11-2022,Burgers,12.99,523.48,Drive-thru , Credit Card,Pablo Perez,Madrid,6800.0052
+10501,17-11-2022,Chicken Sandwiches,9.95,201.01,Drive-thru , Credit Card,Pablo Perez,Madrid,2000.0495
+10502,17-11-2022,Fries,3.49,630.37,Drive-thru , Credit Card,Pablo Perez,Madrid,2199.9913
+10503,17-11-2022,Beverages,2.95,677.97,Drive-thru , Credit Card,Pablo Perez,Madrid,2000.0115
+10504,17-11-2022,Sides & Other,4.99,200.4,Drive-thru , Credit Card,Pablo Perez,Madrid,999.996
+10505,18-11-2022,Burgers,12.99,538.88,Drive-thru , Credit Card,Pablo Perez,Madrid,7000.0512
+10506,18-11-2022,Chicken Sandwiches,9.95,201.01,Drive-thru , Credit Card,Pablo Perez,Madrid,2000.0495
+10507,18-11-2022,Fries,3.49,687.68,Drive-thru , Credit Card,Pablo Perez,Madrid,2400.0032
+10508,18-11-2022,Beverages,2.95,677.97,Drive-thru , Credit Card,Pablo Perez,Madrid,2000.0115
+10509,18-11-2022,Sides & Other,4.99,200.4,Drive-thru , Credit Card,Pablo Perez,Madrid,999.996
+10510,19-11-2022,Burgers,12.99,508.08,Drive-thru , Credit Card,Pablo Perez,Madrid,6599.9592
+10511,19-11-2022,Chicken Sandwiches,9.95,201.01,Drive-thru , Credit Card,Joao Silva,Lisbon,2000.0495
+10512,19-11-2022,Fries,3.49,687.68,Drive-thru , Credit Card,Joao Silva,Lisbon,2400.0032
+10513,19-11-2022,Beverages,2.95,677.97,Drive-thru , Cash,Joao Silva,Lisbon,2000.0115
+10514,19-11-2022,Sides & Other,4.99,200.4,Drive-thru , Cash,Joao Silva,Lisbon,999.996
+10515,20-11-2022,Burgers,12.99,477.29,Drive-thru , Cash,Joao Silva,Lisbon,6199.9971
+10516,20-11-2022,Chicken Sandwiches,9.95,201.01,Drive-thru , Cash,Joao Silva,Lisbon,2000.0495
+10483,13-11-2022,Beverages,2.95,677.97,In-store , Credit Card,Joao    Silva,Lisbon,2000.0115
+10484,13-11-2022,Sides & Other,4.99,200.4,In-store , Credit Card,Joao    Silva,Lisbon,999.996
+10485,14-11-2022,Burgers,12.99,523.48,In-store , Credit Card,Joao    Silva,Lisbon,6800.0052
+10520,21-11-2022,Burgers,12.99,492.69,Drive-thru , Cash,Remy Monet,Paris,6400.0431
+10521,21-11-2022,Chicken Sandwiches,9.95,201.01,Drive-thru , Cash,Remy Monet,Paris,2000.0495
+10522,21-11-2022,Fries,3.49,687.68,Drive-thru , Cash,Remy Monet,Paris,2400.0032
+10523,21-11-2022,Beverages,2.95,745.76,Drive-thru , Cash,Remy Monet,Paris,2199.992
+10524,21-11-2022,Sides & Other,4.99,200.4,Drive-thru , Cash,Remy Monet,Paris,999.996
+10525,22-11-2022,Burgers,12.99,461.89,Drive-thru , Cash,Remy Monet,Paris,5999.9511
+10526,22-11-2022,Chicken Sandwiches,9.95,201.01,Drive-thru , Cash,Remy Monet,Paris,2000.0495
+10527,22-11-2022,Fries,3.49,687.68,Drive-thru , Cash,Remy Monet,Paris,2400.0032
+10528,22-11-2022,Beverages,2.95,745.76,Drive-thru , Cash,Remy Monet,Paris,2199.992
+10529,22-11-2022,Sides & Other,4.99,200.4,Drive-thru , Cash,Remy Monet,Paris,999.996
+10530,23-11-2022,Burgers,12.99,477.29,Drive-thru , Cash,Remy Monet,Paris,6199.9971
+10531,23-11-2022,Chicken Sandwiches,9.95,201.01,Drive-thru , Cash,Remy Monet,Paris,2000.0495
+10532,23-11-2022,Fries,3.49,687.68,Drive-thru , Cash,Joao Silva,Lisbon,2400.0032
+10533,23-11-2022,Beverages,2.95,745.76,Drive-thru , Cash,Joao Silva,Lisbon,2199.992
+10534,23-11-2022,Sides & Other,4.99,200.4,Drive-thru , Cash,Pablo Perez,Madrid,999.996
+10535,24-11-2022,Burgers,12.99,477.29,Drive-thru , Credit Card,Pablo Perez,Madrid,6199.9971
+10536,24-11-2022,Chicken Sandwiches,9.95,201.01,Drive-thru , Credit Card,Pablo Perez,Madrid,2000.0495
+10540,25-11-2022,Burgers,12.99,461.89,Drive-thru , Credit Card,Pablo Perez,Madrid,5999.9511
+10541,25-11-2022,Chicken Sandwiches,9.95,201.01,Drive-thru , Credit Card,Tom Jackson,London,2000.0495
+10542,25-11-2022,Fries,3.49,630.37,Drive-thru , Credit Card,Tom Jackson,London,2199.9913
+10543,25-11-2022,Beverages,2.95,745.76,Drive-thru , Credit Card,Tom Jackson,London,2199.992
+10544,25-11-2022,Sides & Other,4.99,200.4,Drive-thru , Credit Card,Tom Jackson,London,999.996
+10545,26-11-2022,Burgers,12.99,446.5,Drive-thru , Credit Card,Tom Jackson,London,5800.035
+10546,26-11-2022,Chicken Sandwiches,9.95,201.01,Drive-thru , Credit Card,Tom Jackson,London,2000.0495
+10547,26-11-2022,Fries,3.49,630.37,Drive-thru , Credit Card,Tom Jackson,London,2199.9913
+10548,26-11-2022,Beverages,2.95,745.76,Drive-thru , Credit Card,Tom Jackson,London,2199.992
+10549,26-11-2022,Sides & Other,4.99,200.4,Drive-thru , Credit Card,Tom Jackson,London,999.996
+10550,27-11-2022,Burgers,12.99,461.89,Drive-thru , Credit Card,Tom Jackson,London,5999.9511
+10551,27-11-2022,Chicken Sandwiches,9.95,201.01,Drive-thru , Credit Card,Tom Jackson,London,2000.0495
+10552,27-11-2022,Fries,3.49,630.37,Online , Credit Card,Tom Jackson,London,2199.9913
+10553,27-11-2022,Beverages,2.95,745.76,Online , Credit Card,Tom Jackson,London,2199.992
+10554,27-11-2022,Sides & Other,4.99,200.4,Online , Credit Card,Tom Jackson,London,999.996
+10555,28-11-2022,Burgers,12.99,477.29,Online , Credit Card,Tom Jackson,London,6199.9971
+10556,28-11-2022,Chicken Sandwiches,9.95,201.01,Online , Credit Card,Tom Jackson,London,2000.0495
+10557,28-11-2022,Fries,3.49,630.37,Online , Credit Card,Tom Jackson,London,2199.9913
+10558,28-11-2022,Beverages,2.95,677.97,Online , Credit Card,Tom Jackson,London,2000.0115
+10559,28-11-2022,Sides & Other,4.99,200.4,Online , Credit Card,Tom Jackson,London,999.996
+10560,29-11-2022,Burgers,12.99,477.29,Online , Credit Card,Tom Jackson,London,6199.9971
+10561,29-11-2022,Chicken Sandwiches,9.95,201.01,Online , Credit Card,Tom Jackson,London,2000.0495
+10562,29-11-2022,Fries,3.49,630.37,Online , Credit Card,Tom Jackson,London,2199.9913
+10563,29-11-2022,Beverages,2.95,677.97,Online , Credit Card,Tom Jackson,London,2000.0115
+10564,29-11-2022,Sides & Other,4.99,200.4,Online , Credit Card,Tom Jackson,London,999.996
+10565,30-11-2022,Burgers,12.99,492.69,Online , Credit Card,Tom Jackson,London,6400.0431
+10566,30-11-2022,Chicken Sandwiches,9.95,201.01,Online , Credit Card,Tom Jackson,London,2000.0495
+10567,30-11-2022,Fries,3.49,630.37,Online , Credit Card,Tom Jackson,London,2199.9913
+10568,30-11-2022,Beverages,2.95,677.97,Online , Credit Card,Tom Jackson,London,2000.0115
+10569,30-11-2022,Sides & Other,4.99,200.4,Online , Credit Card,Tom Jackson,London,999.996
+10570,1/12/2022,Burgers,12.99,492.69,Online , Credit Card,Tom Jackson,London,6400.0431
+10571,1/12/2022,Chicken Sandwiches,9.95,201.01,Online , Credit Card,Tom Jackson,London,2000.0495
+10572,1/12/2022,Fries,3.49,573.07,Online , Credit Card,Remy Monet,Paris,2000.0143
+10573,1/12/2022,Beverages,2.95,677.97,Online , Credit Card,Remy Monet,Paris,2000.0115
+10574,1/12/2022,Sides & Other,4.99,200.4,Online , Credit Card,Remy Monet,Paris,999.996
+10575,2/12/2022,Burgers,12.99,523.48,Online , Credit Card,Remy Monet,Paris,6800.0052
+10576,2/12/2022,Chicken Sandwiches,9.95,201.01,Online , Credit Card,Remy Monet,Paris,2000.0495
+10577,2/12/2022,Fries,3.49,630.37,Online , Credit Card,Remy Monet,Paris,2199.9913
+10578,2/12/2022,Beverages,2.95,677.97,Online , Credit Card,Remy Monet,Paris,2000.0115
+10579,2/12/2022,Sides & Other,4.99,200.4,Online , Credit Card,Remy Monet,Paris,999.996
+10580,3/12/2022,Burgers,12.99,523.48,Online , Credit Card,Remy Monet,Paris,6800.0052
+10581,3/12/2022,Chicken Sandwiches,9.95,201.01,Online , Credit Card,Remy Monet,Paris,2000.0495
+10582,3/12/2022,Fries,3.49,630.37,Online , Credit Card,Tom Jackson,London,2199.9913
+10583,3/12/2022,Beverages,2.95,677.97,Online , Credit Card,Tom Jackson,London,2000.0115
+10584,3/12/2022,Sides & Other,4.99,200.4,Online , Credit Card,Tom Jackson,London,999.996
+10585,4/12/2022,Burgers,12.99,538.88,Online , Credit Card,Tom Jackson,London,7000.0512
+10586,4/12/2022,Chicken Sandwiches,9.95,201.01,Online , Credit Card,Tom Jackson,London,2000.0495
+10537,24-11-2022,Fries,3.49,630.37,Drive-thru , Credit Card,Pablo Perez,Madrid,2199.9913
+10538,24-11-2022,Beverages,2.95,745.76,Drive-thru , Credit Card,Pablo Perez,Madrid,2199.992
+10539,24-11-2022,Sides & Other,4.99,200.4,Drive-thru , Credit Card,Pablo Perez,Madrid,999.996
+10590,5/12/2022,Burgers,12.99,554.27,Online , Credit Card,Tom Jackson,London,7199.9673
+10591,5/12/2022,Chicken Sandwiches,9.95,201.01,Online , Credit Card,Tom Jackson,London,2000.0495
+10592,5/12/2022,Fries,3.49,573.07,Online , Credit Card,Tom Jackson,London,2000.0143
+10593,5/12/2022,Beverages,2.95,677.97,Online , Credit Card,Tom Jackson,London,2000.0115
+10594,5/12/2022,Sides & Other,4.99,200.4,Online , Credit Card,Tom Jackson,London,999.996
+10595,6/12/2022,Burgers,12.99,538.88,Online , Credit Card,Tom Jackson,London,7000.0512
+10596,6/12/2022,Chicken Sandwiches,9.95,201.01,Online , Credit Card,Tom Jackson,London,2000.0495
+10597,6/12/2022,Fries,3.49,573.07,Online , Credit Card,Tom Jackson,London,2000.0143
+10598,6/12/2022,Beverages,2.95,677.97,Online , Credit Card,Tom Jackson,London,2000.0115
+10599,6/12/2022,Sides & Other,4.99,200.4,Online , Credit Card,Tom Jackson,London,999.996
+10600,7/12/2022,Burgers,12.99,523.48,Online , Credit Card,Tom Jackson,London,6800.0052
+10601,7/12/2022,Chicken Sandwiches,9.95,201.01,Online , Credit Card,Tom Jackson,London,2000.0495
+10602,7/12/2022,Fries,3.49,630.37,Online , Cash,Tom Jackson,London,2199.9913
+10603,7/12/2022,Beverages,2.95,677.97,Online , Cash,Tom Jackson,London,2000.0115
+10604,7/12/2022,Sides & Other,4.99,200.4,Online , Cash,Tom Jackson,London,999.996
+10605,8/12/2022,Burgers,12.99,538.88,Online , Cash,Tom Jackson,London,7000.0512
+10606,8/12/2022,Chicken Sandwiches,9.95,201.01,Online , Cash,Tom Jackson,London,2000.0495
+10607,8/12/2022,Fries,3.49,630.37,Online , Cash,Tom Jackson,London,2199.9913
+10608,8/12/2022,Beverages,2.95,677.97,Online , Gift Card,Tom Jackson,London,2000.0115
+10609,8/12/2022,Sides & Other,4.99,200.4,Online , Gift Card,Tom Jackson,London,999.996
+10610,9/12/2022,Burgers,12.99,569.67,Online , Gift Card,Tom Jackson,London,7400.0133
+10611,9/12/2022,Chicken Sandwiches,9.95,201.01,Online , Gift Card,Tom Jackson,London,2000.0495
+10612,9/12/2022,Fries,3.49,630.37,Online , Gift Card,Tom Jackson,London,2199.9913
+10613,9/12/2022,Beverages,2.95,677.97,Online , Gift Card,Tom Jackson,London,2000.0115
+10614,9/12/2022,Sides & Other,4.99,200.4,Online , Gift Card,Tom Jackson,London,999.996
+10615,10/12/2022,Burgers,12.99,569.67,Online , Gift Card,Tom Jackson,London,7400.0133
+10616,10/12/2022,Chicken Sandwiches,9.95,201.01,Online , Gift Card,Tom Jackson,London,2000.0495
+10617,10/12/2022,Fries,3.49,630.37,Online , Gift Card,Tom Jackson,London,2199.9913
+10618,10/12/2022,Beverages,2.95,677.97,Online , Gift Card,Tom Jackson,London,2000.0115
+10619,10/12/2022,Sides & Other,4.99,200.4,Online , Gift Card,Tom Jackson,London,999.996
+10620,11/12/2022,Burgers,12.99,585.07,Online , Gift Card,Tom Jackson,London,7600.0593
+10621,11/12/2022,Chicken Sandwiches,9.95,201.01,Online , Gift Card,Tom Jackson,London,2000.0495
+10622,11/12/2022,Fries,3.49,630.37,Online , Gift Card,Tom Jackson,London,2199.9913
+10623,11/12/2022,Beverages,2.95,745.76,Online , Gift Card,Tom Jackson,London,2199.992
+10624,11/12/2022,Sides & Other,4.99,200.4,Online , Gift Card,Tom Jackson,London,999.996
+10625,12/12/2022,Burgers,12.99,569.67,Online , Gift Card,Tom Jackson,London,7400.0133
+10626,12/12/2022,Chicken Sandwiches,9.95,201.01,Online , Gift Card,Tom Jackson,London,2000.0495
+10627,12/12/2022,Fries,3.49,630.37,Online , Gift Card,Tom Jackson,London,2199.9913
+10628,12/12/2022,Beverages,2.95,677.97,Online , Gift Card,Joao Silva,Lisbon,2000.0115
+10629,12/12/2022,Sides & Other,4.99,200.4,Online , Gift Card,Joao Silva,Lisbon,999.996
+10630,13-12-2022,Burgers,12.99,569.67,Online , Cash,Joao Silva,Lisbon,7400.0133
+10631,13-12-2022,Chicken Sandwiches,9.95,201.01,Online , Gift Card,Joao Silva,Lisbon,2000.0495
+10632,13-12-2022,Fries,3.49,630.37,Online , Gift Card,Joao Silva,Lisbon,2199.9913
+10633,13-12-2022,Beverages,2.95,677.97,Online , Gift Card,Joao Silva,Lisbon,2000.0115
+10634,13-12-2022,Sides & Other,4.99,200.4,Online , Gift Card,Joao Silva,Lisbon,999.996
+10635,14-12-2022,Burgers,12.99,554.27,Online , Gift Card,Joao Silva,Lisbon,7199.9673
+10636,14-12-2022,Chicken Sandwiches,9.95,221.11,Online , Gift Card,Joao Silva,Lisbon,2200.0445
+10637,14-12-2022,Fries,3.49,630.37,Online , Gift Card,Joao Silva,Lisbon,2199.9913
+10638,14-12-2022,Beverages,2.95,677.97,Online , Gift Card,Joao Silva,Lisbon,2000.0115
+10639,14-12-2022,Sides & Other,4.99,200.4,Online , Gift Card,Joao Silva,Lisbon,999.996
+10640,15-12-2022,Burgers,12.99,538.88,Online , Gift Card,Joao Silva,Lisbon,7000.0512
+10641,15-12-2022,Chicken Sandwiches,9.95,221.11,Online , Gift Card,Joao Silva,Lisbon,2200.0445
+10642,15-12-2022,Fries,3.49,630.37,Online , Cash,Joao Silva,Lisbon,2199.9913
+10643,15-12-2022,Beverages,2.95,677.97,Online , Cash,Joao Silva,Lisbon,2000.0115
+10644,15-12-2022,Sides & Other,4.99,200.4,Online , Cash,Joao Silva,Lisbon,999.996
+10645,16-12-2022,Burgers,12.99,569.67,Online , Cash,Joao Silva,Lisbon,7400.0133
+10646,16-12-2022,Chicken Sandwiches,9.95,221.11,Online , Cash,Joao Silva,Lisbon,2200.0445
+10647,16-12-2022,Fries,3.49,630.37,Online , Gift Card,Joao Silva,Lisbon,2199.9913
+10648,16-12-2022,Beverages,2.95,745.76,Online , Gift Card,Joao Silva,Lisbon,2199.992
+10649,16-12-2022,Sides & Other,4.99,200.4,Online , Gift Card,Joao Silva,Lisbon,999.996
+10650,17-12-2022,Burgers,12.99,585.07,Online , Gift Card,Joao Silva,Lisbon,7600.0593
+10651,17-12-2022,Chicken Sandwiches,9.95,221.11,Online , Gift Card,Joao Silva,Lisbon,2200.0445
+10652,17-12-2022,Fries,3.49,687.68,Online , Gift Card,Joao Silva,Lisbon,2400.0032
+10653,17-12-2022,Beverages,2.95,745.76,Online , Gift Card,Joao Silva,Lisbon,2199.992
+10654,17-12-2022,Sides & Other,4.99,200.4,Online , Gift Card,Joao Silva,Lisbon,999.996
+10655,18-12-2022,Burgers,12.99,600.46,Online , Gift Card,Joao Silva,Lisbon,7799.9754
+10656,18-12-2022,Chicken Sandwiches,9.95,221.11,Online , Gift Card,Joao Silva,Lisbon,2200.0445
+10657,18-12-2022,Fries,3.49,687.68,Online , Gift Card,Joao Silva,Lisbon,2400.0032
+10658,18-12-2022,Beverages,2.95,745.76,Online , Cash,Joao Silva,Lisbon,2199.992
+10659,18-12-2022,Sides & Other,4.99,200.4,Online , Cash,Joao Silva,Lisbon,999.996
+10660,19-12-2022,Burgers,12.99,631.25,In-store , Cash,Joao Silva,Lisbon,8199.9375
+10661,19-12-2022,Chicken Sandwiches,9.95,221.11,In-store , Cash,Joao Silva,Lisbon,2200.0445
+10662,19-12-2022,Fries,3.49,630.37,In-store , Cash,Joao Silva,Lisbon,2199.9913
+10663,19-12-2022,Beverages,2.95,745.76,In-store , Cash,Joao Silva,Lisbon,2199.992
+10664,19-12-2022,Sides & Other,4.99,200.4,In-store , Cash,Joao Silva,Lisbon,999.996
+10665,20-12-2022,Burgers,12.99,646.65,In-store , Cash,Joao Silva,Lisbon,8399.9835
+10666,20-12-2022,Chicken Sandwiches,9.95,221.11,In-store , Cash,Joao Silva,Lisbon,2200.0445
+10667,20-12-2022,Fries,3.49,630.37,In-store , Cash,Joao Silva,Lisbon,2199.9913
+10668,20-12-2022,Beverages,2.95,745.76,In-store , Cash,Joao Silva,Lisbon,2199.992
+10669,20-12-2022,Sides & Other,4.99,200.4,In-store , Cash,Joao Silva,Lisbon,999.996
+10670,21-12-2022,Burgers,12.99,677.44,In-store , Cash,Joao Silva,Lisbon,8799.9456
+10671,21-12-2022,Chicken Sandwiches,9.95,221.11,In-store , Cash,Joao Silva,Lisbon,2200.0445
+10672,21-12-2022,Fries,3.49,630.37,In-store , Cash,Joao Silva,Lisbon,2199.9913
+10673,21-12-2022,Beverages,2.95,745.76,In-store , Cash,Joao Silva,Lisbon,2199.992
+10674,21-12-2022,Sides & Other,4.99,200.4,In-store , Cash,Joao Silva,Lisbon,999.996
+10675,22-12-2022,Burgers,12.99,677.44,In-store , Cash,Joao Silva,Lisbon,8799.9456
+10676,22-12-2022,Chicken Sandwiches,9.95,241.21,In-store , Cash,Joao Silva,Lisbon,2400.0395
+10677,22-12-2022,Fries,3.49,630.37,In-store , Cash,Joao Silva,Lisbon,2199.9913
+10678,22-12-2022,Beverages,2.95,745.76,In-store , Cash,Joao Silva,Lisbon,2199.992
+10679,22-12-2022,Sides & Other,4.99,200.4,In-store , Cash,Joao Silva,Lisbon,999.996
+10680,23-12-2022,Burgers,12.99,646.65,In-store , Cash,Joao Silva,Lisbon,8399.9835
+10681,23-12-2022,Chicken Sandwiches,9.95,241.21,In-store , Cash,Joao Silva,Lisbon,2400.0395
+10682,23-12-2022,Fries,3.49,630.37,In-store , Cash,Joao Silva,Lisbon,2199.9913
+10683,23-12-2022,Beverages,2.95,677.97,In-store , Cash,Joao Silva,Lisbon,2000.0115
+10684,23-12-2022,Sides & Other,4.99,200.4,In-store , Cash,Joao Silva,Lisbon,999.996
+10685,24-12-2022,Burgers,12.99,677.44,In-store , Cash,Joao Silva,Lisbon,8799.9456
+10686,24-12-2022,Chicken Sandwiches,9.95,241.21,In-store , Cash,Joao Silva,Lisbon,2400.0395
+10687,24-12-2022,Fries,3.49,630.37,In-store , Cash,Walter Muller,Berlin,2199.9913
+10688,24-12-2022,Beverages,2.95,677.97,In-store , Cash,Walter Muller,Berlin,2000.0115
+10689,24-12-2022,Sides & Other,4.99,200.4,In-store , Cash,Walter Muller,Berlin,999.996
+10690,25-12-2022,Burgers,12.99,677.44,In-store , Cash,Walter Muller,Berlin,8799.9456
+10691,25-12-2022,Chicken Sandwiches,9.95,261.31,In-store , Cash,Walter Muller,Berlin,2600.0345
+10692,25-12-2022,Fries,3.49,630.37,In-store , Cash,Walter Muller,Berlin,2199.9913
+10693,25-12-2022,Beverages,2.95,677.97,In-store , Cash,Walter Muller,Berlin,2000.0115
+10694,25-12-2022,Sides & Other,4.99,200.4,In-store , Cash,Walter Muller,Berlin,999.996
+10695,26-12-2022,Burgers,12.99,692.84,In-store , Cash,Walter Muller,Berlin,8999.9916
+10696,26-12-2022,Chicken Sandwiches,9.95,281.41,In-store , Cash,Walter Muller,Berlin,2800.0295
+10697,26-12-2022,Fries,3.49,630.37,In-store , Cash,Walter Muller,Berlin,2199.9913
+10698,26-12-2022,Beverages,2.95,677.97,In-store , Cash,Walter Muller,Berlin,2000.0115
+10699,26-12-2022,Sides & Other,4.99,200.4,In-store , Cash,Walter Muller,Berlin,999.996
+10700,27-12-2022,Burgers,12.99,692.84,In-store , Cash,Walter Muller,Berlin,8999.9916
+10701,27-12-2022,Chicken Sandwiches,9.95,281.41,In-store , Cash,Walter Muller,Berlin,2800.0295
+10702,27-12-2022,Fries,3.49,630.37,In-store , Cash,Walter Muller,Berlin,2199.9913
+10703,27-12-2022,Beverages,2.95,677.97,In-store , Gift Card,Walter Muller,Berlin,2000.0115
+10704,27-12-2022,Sides & Other,4.99,200.4,Drive-thru , Gift Card,Walter Muller,Berlin,999.996
+10705,28-12-2022,Burgers,12.99,723.63,Drive-thru , Gift Card,Walter Muller,Berlin,9399.9537
+10706,28-12-2022,Chicken Sandwiches,9.95,301.51,Drive-thru , Gift Card,Walter Muller,Berlin,3000.0245
+10707,28-12-2022,Fries,3.49,630.37,Drive-thru , Gift Card,Walter Muller,Berlin,2199.9913
+10708,28-12-2022,Beverages,2.95,677.97,Drive-thru , Gift Card,Walter Muller,Berlin,2000.0115
+10709,28-12-2022,Sides & Other,4.99,200.4,Drive-thru , Gift Card,Walter Muller,Berlin,999.996
+10710,29-12-2022,Burgers,12.99,754.43,Drive-thru , Gift Card,Walter Muller,Berlin,9800.0457
+10711,29-12-2022,Chicken Sandwiches,9.95,281.41,Drive-thru , Gift Card,Walter Muller,Berlin,2800.0295
+10712,29-12-2022,Fries,3.49,630.37,Drive-thru , Gift Card,Walter Muller,Berlin,2199.9913
+10713,29-12-2022,Beverages,2.95,677.97,Drive-thru , Gift Card,Walter Muller,Berlin,2000.0115
